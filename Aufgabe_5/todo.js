@@ -28,7 +28,7 @@ export class ToDo {
     const divElement = document.createElement("div");
     const checkboxElement = document.createElement("input");
     const spanElement = document.createElement("span");
-    const buttonElement = document.createElement("button");
+      const buttonElement = document.createElement("button");
 
     listElement.appendChild(divElement);
 
